@@ -57,14 +57,14 @@
 ## GitHub Analytics
 
 <p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=marckmalhado&show_icons=true&theme=react" alt="marck's stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckmalhado&layout=compact&theme=react" alt="marck's most languages"/>
+<img width="440em" src="https://github-readme-stats.vercel.app/api?username=marckmalhado&show_icons=true&theme=react" alt="marck's stats"/>
+<!--<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckmalhado&layout=compact&theme=dark" alt="marck's most languages"/>-->
 </p>
 
 
 <br><br>
 
-
+## Twitter
 
 <img width="440em" src="https://github-readme-twitter-gazf.vercel.app/api?id=marckmalhado&layout=wide&show_reply=off&show_retweet=off" />
 
