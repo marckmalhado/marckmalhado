@@ -57,8 +57,8 @@
 ## GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=marckmalhado&show_icons=true&theme=vision-friendly-dark" alt="marck's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckmalhado&layout=compact&theme=vision-friendly-dark" alt="marck's most languages"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=marckmalhado&show_icons=true&theme=react" alt="marck's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckmalhado&layout=compact&theme=react" alt="marck's most languages"/>
 </p>
 
 
@@ -66,7 +66,7 @@
 
 
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=marckmalhado&layout=wide&show_reply=off&show_retweet=off" />
+<img width="440em" src="https://github-readme-twitter-gazf.vercel.app/api?id=marckmalhado&layout=wide&show_reply=off&show_retweet=off" />
 
 <!--
 **marckmalhado/marckmalhado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
