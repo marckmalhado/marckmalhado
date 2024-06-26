@@ -4,7 +4,7 @@
 
 - 🔥 Sênior Web Developer & Junior Data Scientist 
 
-- 🔭 I’m currently working at [MK8 Tech](https://github.com/mk8tech)
+- 🔭 I’m currently working at [MK9 Tech](https://github.com/mk9tech)
 
 - ▶️ I (not) regularly post videos on [youtube.com/marckmalhadodesouza](https://youtube.com/marckmalhadodesouza)
 
@@ -12,7 +12,7 @@
 
 - ⚡ Graduate student in Data Science 😜**
 
-- 👨‍💻 More at [mk8.tech](https://mk8.tech)
+- 👨‍💻 More at [mk9.tech](https://mk9.tech)
 
 
 
